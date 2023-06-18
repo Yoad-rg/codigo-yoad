@@ -17,5 +17,15 @@
         "path": "./themes/Extension Codigo-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icons/icono-tema.png",
+  "author": "Yoad",
+  "repository": {
+    "url": "https://github.com/Yoad-rg/codigo-yoad.git",
+    "type": "git"
+  },
+
+  "publisher": "codigo-yoad"
+
+
 }
