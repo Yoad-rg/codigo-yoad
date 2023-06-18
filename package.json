@@ -1,0 +1,21 @@
+{
+  "name": "yoad-extension",
+  "displayName": "yoad-extension",
+  "description": "claro con colores ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extension Codigo",
+        "uiTheme": "vs",
+        "path": "./themes/Extension Codigo-color-theme.json"
+      }
+    ]
+  }
+}
